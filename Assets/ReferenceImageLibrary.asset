@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5527002283123912148
+  m_GuidHigh: 9424678633764913056
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 4761410900352825095
+      m_GuidHigh: 16300728943010009487
+    m_SerializedTextureGuid:
+      m_GuidLow: 2185637134318578490
+      m_GuidHigh: 9142179654268454233
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mars
+    m_Texture: {fileID: 2800000, guid: c6f62b3af1641e545985794df58bdf7e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5434367206575121779
+      m_GuidHigh: 6469756793503512734
+    m_SerializedTextureGuid:
+      m_GuidLow: 9377630225610780635
+      m_GuidHigh: 9134229782467996459
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: earth
+    m_Texture: {fileID: 2800000, guid: 607f2fdb090182242b6bcc88974dc37e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5655294524239446712
+      m_GuidHigh: 358171613735908761
+    m_SerializedTextureGuid:
+      m_GuidLow: 6364887414799388638
+      m_GuidHigh: 7201724587114694427
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: venus
+    m_Texture: {fileID: 2800000, guid: 9278cfde9f6158541b072b095baaf163, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4941935235899393845
+      m_GuidHigh: 5763153637719004860
+    m_SerializedTextureGuid:
+      m_GuidLow: 18146320045351149931
+      m_GuidHigh: 425911237286601352
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: mercury
+    m_Texture: {fileID: 2800000, guid: 1bb4a16badf0fbd488a250840324e905, type: 3}
