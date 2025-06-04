@@ -548,6 +548,7 @@ GameObject:
   - component: {fileID: 2056579579}
   - component: {fileID: 2056579581}
   - component: {fileID: 2056579582}
+  - component: {fileID: 2056579583}
   m_Layer: 0
   m_Name: XR Origin
   m_TagString: Untagged
@@ -618,8 +619,36 @@ MonoBehaviour:
   ArPrefabs:
   - {fileID: 1538552501436568911, guid: 835cd1ea111326b40be5e89b95fed707, type: 3}
   - {fileID: 5034553412624573700, guid: e6922b4961b7a86468386b758c2877d3, type: 3}
+  - {fileID: 6398176942264522868, guid: 7488f5c375ece7b40bfbdde6adb16bcb, type: 3}
   - {fileID: 3168642259765923958, guid: 482cbcac6be7245429f0c7c4d82fa58c, type: 3}
   - {fileID: 5503183399966648648, guid: 8d853439ac8ed234a83523884ed8d1dc, type: 3}
+  - {fileID: 6702476008639846654, guid: a6348534ed8eaa548842c63c3baba47a, type: 3}
+  - {fileID: 2326961430274105046, guid: f2b34d80f7c840a4daaa92e48a06d67f, type: 3}
+  - {fileID: 4820140830760716849, guid: d7c360995da1f3945b82715bc303a1fb, type: 3}
+  - {fileID: 1194929263243997341, guid: 2fbdba2d9d2f47c42b68cb67fe9194c2, type: 3}
+  - {fileID: 261966974665499212, guid: bb72020c30310b748b8967a3929e859d, type: 3}
+--- !u!114 &2056579583
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2056579578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9666d3c8a5e84d44eb3972444d4bffea, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  marsPopup: {fileID: 4023558329733557974, guid: 34f3aa69de98fbf46a1cd762985b6e0e, type: 3}
+  earthPopup: {fileID: 2696269892474855887, guid: f211d408c2e100747b161efe709d3f75, type: 3}
+  mercuryPopup: {fileID: 562927908056952488, guid: 530f34d2a841bfa40a965ef3d14dd05a, type: 3}
+  venusPopup: {fileID: 5598951699138439520, guid: 47b992da8d2cf324aadad2017a2301f8, type: 3}
+  jupiterPopup: {fileID: 8062351343022079860, guid: ebaeb6295bf12cb4699a0c6a61a4df97, type: 3}
+  saturnPopup: {fileID: 1834961173964915772, guid: 96d851d783d53f145830ae0521668047, type: 3}
+  uranusPopup: {fileID: 3924569857666030816, guid: 57f1a1da2b95dec4a8a457a43562e6e3, type: 3}
+  neptunePopup: {fileID: 8750006428097525794, guid: 1f545ec9e0fdfb2419b64400a320ad15, type: 3}
+  moonPopup: {fileID: 7933567662333068515, guid: 726370a1c4f15a84c891fff5ec3ba456, type: 3}
+  sunPopup: {fileID: 7481634033005315376, guid: 7710cbe0b7ed9ca4893f449894f1761a, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

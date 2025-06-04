@@ -3,7 +3,28 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - mars
+  - info
+  - marsInfo
+  - earth
+  - earthInfo
+  - mercury
+  - mercuryInfo
+  - venus
+  - venusInfo
+  - jupiter
+  - jupiterInfo
+  - saturn
+  - saturnInfo
+  - uranus
+  - uranusInfo
+  - neptune
+  - neptuneInfo
+  - moon
+  - moonInfo
+  - sun
+  - sunInfo
   layers:
   - Default
   - TransparentFX

@@ -57,3 +57,83 @@ MonoBehaviour:
     m_SpecifySize: 0
     m_Name: mercury
     m_Texture: {fileID: 2800000, guid: 1bb4a16badf0fbd488a250840324e905, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5735796736352100028
+      m_GuidHigh: 4506141819995582877
+    m_SerializedTextureGuid:
+      m_GuidLow: 7328518359707775677
+      m_GuidHigh: 4514629315595167451
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: jupiter
+    m_Texture: {fileID: 2800000, guid: b84f72bd209e65b4db669d68712fa73e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5649481920694910615
+      m_GuidHigh: 11697402092209188282
+    m_SerializedTextureGuid:
+      m_GuidLow: 8112378854679138917
+      m_GuidHigh: 11234116314060226760
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: saturn
+    m_Texture: {fileID: 2800000, guid: 4c8a5265f5967094c800fb484499e79b, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5113498338466909747
+      m_GuidHigh: 1323675522041766846
+    m_SerializedTextureGuid:
+      m_GuidLow: 16997970117330731064
+      m_GuidHigh: 1650551158262652425
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: uranus
+    m_Texture: {fileID: 2800000, guid: 3a340038ebc3ebe409deda8f88efe716, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5642777984775400643
+      m_GuidHigh: 15295248535084872121
+    m_SerializedTextureGuid:
+      m_GuidLow: 7292547472300971214
+      m_GuidHigh: 4124396823964445897
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: neptune
+    m_Texture: {fileID: 2800000, guid: da2c14ce55496534c96c26350fcd3c39, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4868522568525690814
+      m_GuidHigh: 11566083635745721749
+    m_SerializedTextureGuid:
+      m_GuidLow: 8535514274696590831
+      m_GuidHigh: 15685519569251208856
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: moon
+    m_Texture: {fileID: 2800000, guid: 7e90f5ef3d027674980ea85af128aed9, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5153812657987682078
+      m_GuidHigh: 2225392290946744452
+    m_SerializedTextureGuid:
+      m_GuidLow: 16570022052695081834
+      m_GuidHigh: 8992118542793771481
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: saturnringcolorthumb
+    m_Texture: {fileID: 2800000, guid: e347836a8b43e5f4d9096d212c6cca7c, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4695596431667738969
+      m_GuidHigh: 17125193458534053777
+    m_SerializedTextureGuid:
+      m_GuidLow: 11017198982794901258
+      m_GuidHigh: 4859816343491478042
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: uranusringcolour
+    m_Texture: {fileID: 2800000, guid: 6d48f70af41a98e41a82724b37897143, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5308879829665317947
+      m_GuidHigh: 16468462327228022673
+    m_SerializedTextureGuid:
+      m_GuidLow: 14070499483412786490
+      m_GuidHigh: 1841173230649360585
+    m_Size: {x: 0, y: 0}
+    m_SpecifySize: 0
+    m_Name: sun
+    m_Texture: {fileID: 2800000, guid: 4122ed3a74bbc344c940d05e4c298d19, type: 3}
